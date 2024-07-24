@@ -1,2 +1,2 @@
-# my-pet-hamster
+# Hamster
 My clicker
